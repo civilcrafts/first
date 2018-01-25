@@ -1516,6 +1516,7 @@ header .header-logo a {
   -moz-background-size: cover;
   background-size: cover;
   background-attachment: fixed;
+  visibility: visible;
  
   position: relative;
 }
